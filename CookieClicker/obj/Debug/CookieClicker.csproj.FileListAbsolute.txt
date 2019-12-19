@@ -1,0 +1,11 @@
+C:\Users\DSU\Desktop\CookieClicker\CookieClicker\bin\Debug\CookieClicker.exe.config
+C:\Users\DSU\Desktop\CookieClicker\CookieClicker\bin\Debug\CookieClicker.exe
+C:\Users\DSU\Desktop\CookieClicker\CookieClicker\bin\Debug\CookieClicker.pdb
+C:\Users\DSU\Desktop\CookieClicker\CookieClicker\obj\Debug\CookieClicker.csprojAssemblyReference.cache
+C:\Users\DSU\Desktop\CookieClicker\CookieClicker\obj\Debug\CookieClicker.Properties.Resources.resources
+C:\Users\DSU\Desktop\CookieClicker\CookieClicker\obj\Debug\CookieClicker.csproj.GenerateResource.cache
+C:\Users\DSU\Desktop\CookieClicker\CookieClicker\obj\Debug\CookieClicker.csproj.CoreCompileInputs.cache
+C:\Users\DSU\Desktop\CookieClicker\CookieClicker\obj\Debug\CookieClicker.exe
+C:\Users\DSU\Desktop\CookieClicker\CookieClicker\obj\Debug\CookieClicker.pdb
+C:\Users\DSU\Desktop\CookieClicker\CookieClicker\obj\Debug\CookieClicker.DirectionForm.resources
+C:\Users\DSU\Desktop\CookieClicker\CookieClicker\obj\Debug\CookieClicker.GameForm.resources
